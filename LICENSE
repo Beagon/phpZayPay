@@ -1,18 +1,3 @@
-phpZayPay
-==============
-PHP wrapper for using the ZayPay API in an object oriented way.
-
-This is using the API class provided by ZayPay at [ZayPay API Integration](http://zaypay.com/api_integration_guide)
-
-Authors
--------
-
-* Robin Rijkeboer (Created Package) [Website](http://bitbukket.com)
-* [Zaypay International B.V.](http://zaypay.com)
-
-License
--------
-```
 The MIT License (MIT)
 
 Copyright (c) 2016 Robin Rijkeboer
@@ -34,4 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```

@@ -1,0 +1,20 @@
+{
+  "name" : "beagon/phpzaypay",
+  "type" : "library",
+  "description" : "PHP wrapper for ZayPay",
+  "keywords" : [
+    "zaypay",
+    "php"
+  ],
+  "license" : "MIT",
+  "authors" : [{
+    "name" : "Robin Rijkeboer",
+    "email" : "rmrijkeboer@gmail.com"
+  }
+  ],
+  "autoload" : {
+    "psr-0" : {
+      "phpZayPay\\" : "lib/"
+    }
+  }
+}
