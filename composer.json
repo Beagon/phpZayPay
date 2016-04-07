@@ -7,10 +7,15 @@
     "php"
   ],
   "license" : "MIT",
-  "authors" : [{
+  "authors" : [
+    {
+      "name": "Zaypay International B.V.",
+      "website": "http://zaypay.com/"
+    },
+    {
     "name" : "Robin Rijkeboer",
     "email" : "rmrijkeboer@gmail.com"
-  }
+    }
   ],
   "autoload" : {
     "psr-0" : {
